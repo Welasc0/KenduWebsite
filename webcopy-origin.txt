@@ -1,0 +1,236 @@
+Uri: https://clickmortarlibrary.nyc3.cdn.digitaloceanspaces.com/Kendu/hero-video.mp4
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\Kendu\hero-video.mp4
+Content Type: video/mp4
+
+Uri: https://csimg.nyc3.cdn.digitaloceanspaces.com/Images/Graphics/dark-mode-splatter2.svg
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\Images\Graphics\dark-mode-splatter2.svg
+Content Type: image/svg+xml
+
+Uri: https://fonts.googleapis.com/css2?family=Orienta&family=Teko:wght@300..700&display=swap
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/orienta/v15/PlI9FlK4Jrl5Y9zNeyc.ttf
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\s\orienta\v15\PlI9FlK4Jrl5Y9zNeyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/teko/v20/LYjYdG7kmE0gV69VVPPdFl06VN8lG7Sy.ttf
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\s\teko\v20\LYjYdG7kmE0gV69VVPPdFl06VN8lG7Sy.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/teko/v20/LYjYdG7kmE0gV69VVPPdFl06VN8XG7Sy.ttf
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\s\teko\v20\LYjYdG7kmE0gV69VVPPdFl06VN8XG7Sy.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/teko/v20/LYjYdG7kmE0gV69VVPPdFl06VN9JG7Sy.ttf
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\s\teko\v20\LYjYdG7kmE0gV69VVPPdFl06VN9JG7Sy.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/teko/v20/LYjYdG7kmE0gV69VVPPdFl06VN_JHLSy.ttf
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\s\teko\v20\LYjYdG7kmE0gV69VVPPdFl06VN_JHLSy.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/teko/v20/LYjYdG7kmE0gV69VVPPdFl06VN_wHLSy.ttf
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\s\teko\v20\LYjYdG7kmE0gV69VVPPdFl06VN_wHLSy.ttf
+Content Type: font/ttf
+
+Uri: https://www.kenduinu.com/
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\index.htm
+Content Type: text/html
+
+Uri: https://www.kenduinu.com/assets/css/critical.css
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\css\critical.css
+Content Type: text/css
+
+Uri: https://www.kenduinu.com/assets/css/local.css
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\css\local.css
+Content Type: text/css
+
+Uri: https://www.kenduinu.com/assets/css/root.css
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\css\root.css
+Content Type: text/css
+
+Uri: https://www.kenduinu.com/assets/favicons/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\favicons\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://www.kenduinu.com/assets/favicons/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\favicons\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://www.kenduinu.com/assets/favicons/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\favicons\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://www.kenduinu.com/assets/favicons/favicon.ico
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\favicons\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://www.kenduinu.com/assets/favicons/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\favicons\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://www.kenduinu.com/assets/favicons/site.webmanifest
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\favicons\site.webmanifest
+Content Type: application/manifest+json
+
+Uri: https://www.kenduinu.com/assets/images/CEX-mobile.webp
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\images\CEX-mobile.webp
+Content Type: image/webp
+
+Uri: https://www.kenduinu.com/assets/images/CEX.webp
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\images\CEX.webp
+Content Type: image/webp
+
+Uri: https://www.kenduinu.com/assets/images/fallback.png
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\images\fallback.png
+Content Type: image/png
+
+Uri: https://www.kenduinu.com/assets/images/faq-1-mobile.webp
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\images\faq-1-mobile.webp
+Content Type: image/webp
+
+Uri: https://www.kenduinu.com/assets/images/faq-1.webp
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\images\faq-1.webp
+Content Type: image/webp
+
+Uri: https://www.kenduinu.com/assets/images/faq-2-mobile.webp
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\images\faq-2-mobile.webp
+Content Type: image/webp
+
+Uri: https://www.kenduinu.com/assets/images/faq-2.webp
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\images\faq-2.webp
+Content Type: image/webp
+
+Uri: https://www.kenduinu.com/assets/images/faq-3-mobile.webp
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\images\faq-3-mobile.webp
+Content Type: image/webp
+
+Uri: https://www.kenduinu.com/assets/images/faq-3.webp
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\images\faq-3.webp
+Content Type: image/webp
+
+Uri: https://www.kenduinu.com/assets/images/faq-4-mobile.webp
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\images\faq-4-mobile.webp
+Content Type: image/webp
+
+Uri: https://www.kenduinu.com/assets/images/faq-4.webp
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\images\faq-4.webp
+Content Type: image/webp
+
+Uri: https://www.kenduinu.com/assets/images/faq-5-mobile.webp
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\images\faq-5-mobile.webp
+Content Type: image/webp
+
+Uri: https://www.kenduinu.com/assets/images/faq-5.webp
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\images\faq-5.webp
+Content Type: image/webp
+
+Uri: https://www.kenduinu.com/assets/images/Kendu_Logo.webp
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\images\Kendu_Logo.webp
+Content Type: image/webp
+
+Uri: https://www.kenduinu.com/assets/images/miazaki-mobile.webp
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\images\miazaki-mobile.webp
+Content Type: image/webp
+
+Uri: https://www.kenduinu.com/assets/images/miazaki.webp
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\images\miazaki.webp
+Content Type: image/webp
+
+Uri: https://www.kenduinu.com/assets/js/carousel.js
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\js\carousel.js
+Content Type: application/javascript
+
+Uri: https://www.kenduinu.com/assets/js/dropdown.js
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\js\dropdown.js
+Content Type: application/javascript
+
+Uri: https://www.kenduinu.com/assets/js/faq.js
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\js\faq.js
+Content Type: application/javascript
+
+Uri: https://www.kenduinu.com/assets/js/hero-video.js
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\js\hero-video.js
+Content Type: application/javascript
+
+Uri: https://www.kenduinu.com/assets/js/nav.js
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\js\nav.js
+Content Type: application/javascript
+
+Uri: https://www.kenduinu.com/assets/svgs/about-splash.svg
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\svgs\about-splash.svg
+Content Type: image/svg+xml
+
+Uri: https://www.kenduinu.com/assets/svgs/app-splash.svg
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\svgs\app-splash.svg
+Content Type: image/svg+xml
+
+Uri: https://www.kenduinu.com/assets/svgs/bottom_shape.svg
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\svgs\bottom_shape.svg
+Content Type: image/svg+xml
+
+Uri: https://www.kenduinu.com/assets/svgs/buy-kendu-bottom-splash.svg
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\svgs\buy-kendu-bottom-splash.svg
+Content Type: image/svg+xml
+
+Uri: https://www.kenduinu.com/assets/svgs/cex-splash.svg
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\svgs\cex-splash.svg
+Content Type: image/svg+xml
+
+Uri: https://www.kenduinu.com/assets/svgs/cex-top-shape.svg
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\svgs\cex-top-shape.svg
+Content Type: image/svg+xml
+
+Uri: https://www.kenduinu.com/assets/svgs/dextools-logo.svg
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\svgs\dextools-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.kenduinu.com/assets/svgs/etherscan-logo.svg
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\svgs\etherscan-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.kenduinu.com/assets/svgs/faq-bottom-splash.svg
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\svgs\faq-bottom-splash.svg
+Content Type: image/svg+xml
+
+Uri: https://www.kenduinu.com/assets/svgs/kendu-chad.svg
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\svgs\kendu-chad.svg
+Content Type: image/svg+xml
+
+Uri: https://www.kenduinu.com/assets/svgs/kendu-chads-splash.svg
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\svgs\kendu-chads-splash.svg
+Content Type: image/svg+xml
+
+Uri: https://www.kenduinu.com/assets/svgs/left_shape.svg
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\svgs\left_shape.svg
+Content Type: image/svg+xml
+
+Uri: https://www.kenduinu.com/assets/svgs/paint-splash-222.svg
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\svgs\paint-splash-222.svg
+Content Type: image/svg+xml
+
+Uri: https://www.kenduinu.com/assets/svgs/tax.svg
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\svgs\tax.svg
+Content Type: image/svg+xml
+
+Uri: https://www.kenduinu.com/assets/svgs/telegram-logo.svg
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\svgs\telegram-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.kenduinu.com/assets/svgs/totalsupply.svg
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\svgs\totalsupply.svg
+Content Type: image/svg+xml
+
+Uri: https://www.kenduinu.com/assets/svgs/uniswap-logo.svg
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\svgs\uniswap-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.kenduinu.com/assets/svgs/work.svg
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\svgs\work.svg
+Content Type: image/svg+xml
+
+Uri: https://www.kenduinu.com/assets/svgs/x-logo.svg
+File Name: C:\Downloaded Web Sites\www.kenduinu.com\assets\svgs\x-logo.svg
+Content Type: image/svg+xml
+
